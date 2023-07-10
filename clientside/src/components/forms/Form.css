@@ -1,0 +1,18 @@
+.form-control,.form-select,.input-group-text
+{ 
+    margin:3px;
+    color:#808080  !important;
+    border: 1px solid #808080  !important;
+    background-color: #FFFFFF !important;
+    height: 2.5em;
+}
+
+.form-control::placeholder{
+    color: #808080 !important;
+  
+}
+
+.file-upload{
+    color: #808080 !important;
+}
+

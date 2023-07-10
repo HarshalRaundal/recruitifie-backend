@@ -1,0 +1,20 @@
+.form-container{
+    position:relative;
+    
+}
+.form-bar{
+    color:aqua;
+    /* border:2px solid #FFCA27; */
+    position: absolute;
+    top:0;
+    height:2px;
+    width: 75%;
+}
+
+.container-divider{
+    position: relative;
+    margin: 12px 0;
+    border:1px solid #FFFFFF;
+    opacity: 100%;
+}
+
